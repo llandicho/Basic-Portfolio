@@ -23,6 +23,8 @@ a:visited {
 /* mouse over link */
 a:hover {
     color: gray;
+    font-size: 22px;
+    background-color: #eee;
 }
 
 /* selected link */
@@ -64,6 +66,7 @@ a:active {
     margin-top: 30px;
 }
 
+
 h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -82,6 +85,10 @@ img {
     float: left;
     margin-right: 10px;
     margin-top: 10px;
+}
+
+p {
+    float: left;
 }
 
 .main-content {
