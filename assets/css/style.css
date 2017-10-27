@@ -1,5 +1,5 @@
 body {
-    background-image: url("../../assets/images/p-winter.jpg");
+    background-image: url("../../assets/images/Vintage-Speckles-White-Seamless-Pattern-For-Website-Background.jpg");
     background-repeat: repeat;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 14px;
@@ -162,4 +162,18 @@ img {
     margin-right: 20px;
     margin-bottom: 40px;
     margin-left: 20px;
+}
+br {
+        line-height: 200%;
+     }
+
+.button {
+background-color: #4CAF50; /* Green */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
 }
