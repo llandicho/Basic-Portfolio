@@ -1,9 +1,10 @@
 body {
-    background-image: url("assets/images/me.jpg");
+    background-image: url("../../assets/images/p-winter.jpg");
     background-repeat: repeat;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 14px;
     margin: 0px;
+    z-index: 1000;
 }
 
 
